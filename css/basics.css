@@ -1,0 +1,20 @@
+#firstrow {
+    margin-top: 30px;
+    margin-button: 40px;
+}
+#firstcol{
+    border:2px solid black;
+    margin-top: 100px;
+    background-color: rgb(39,117,219);
+    color: white;
+}
+#secondcol{
+    margin-top: 100px;
+}
+#secondrow{
+    margin: 5px;
+}
+#submit{
+    background-color: black;
+    margin: 10px;
+}
